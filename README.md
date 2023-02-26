@@ -12,4 +12,4 @@ goal is very simple - to find pair for every card on the board.
 
 # Score:
 
-![](https://i.imgur.com/K5nn4yn.png)
+![](https://i.imgur.com/srvHwOx.png)
