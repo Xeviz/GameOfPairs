@@ -4,7 +4,7 @@ goal is very simple - to find pair for every card on the board.
 
 # Menu:
 
-![](https://im5.ezgif.com/tmp/ezgif-5-5ceeb3ea77.gif)
+![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzU1MjBmYTY5NWFkZTBiODYyZjM2YTU5NWQxYmI0OTRkMWQ3NjZmMSZjdD1n/8SpldZTxFFnb8ScyDN/giphy.gif)
 
 # Game:
 
@@ -12,4 +12,4 @@ goal is very simple - to find pair for every card on the board.
 
 # Score:
 
-![](https://i.imgur.com/MHSFd3z.png)
+![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZlY2NjYTVhOTU2MDFkNzlkYzEyMWNiNjBlOWFjYmM3MDY1OGYzOCZjdD1n/yLMZ4TM1q1pwv6xGIN/giphy.gif)
